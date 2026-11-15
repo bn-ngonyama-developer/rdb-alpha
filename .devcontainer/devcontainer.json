@@ -1,5 +1,5 @@
 {
-  "name": "RDB Alpha",
+  "name": "RDB Alpha 1",
   "dockerFile": "../Dockerfile",
   "workspaceFolder": "/workspace/project",
   "customizations": {
